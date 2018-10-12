@@ -4,7 +4,7 @@
 2. 使用ON DELETE CASCADE,使得多个表中具有reference的数据能够同步被删除。
 3. 完成了某些视图的创建。
 
-![avatar](https://github.com/AdamZeng1/DatabaseOfYoutube/blob/master/image/1.png)
+![avatar](https://github.com/AdamZeng1/DatabaseOfYoutube/blob/master/image/new%201.png)
 
 ![avatar](https://github.com/AdamZeng1/DatabaseOfYoutube/blob/master/image/2.png)
 
